@@ -1,4 +1,5 @@
-# buy_it
+# I initalize e-commerce app and called it "buy it " it is a simple app for clothes shop with nice UI and i wish you have good day
+ #Elhadad:)
 
 A new Flutter application.
 
